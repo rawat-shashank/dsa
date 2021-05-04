@@ -1,4 +1,4 @@
-# Easy - 217 - Contains Duplicate -
+# Easy - 217 - Contains Duplicate - Success
 
 class Solution:
     def containsDuplicate(self, nums) -> bool:

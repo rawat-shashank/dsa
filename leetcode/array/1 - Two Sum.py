@@ -1,4 +1,4 @@
-# Easy 1 - Two Sum -
+# Easy - 1 - Two Sum - Success
 
 class Solution:
     def twoSum(self, nums, target: int):

@@ -68,8 +68,8 @@
 - [x] [Detect Cycle in a Linked List](https://leetcode.com/problems/linked-list-cycle/)
 - [x] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 - [x] [Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
-- [ ] [Reorder List](https://leetcode.com/problems/reorder-list/)
-- [ ] [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+- [x] [Reorder List](https://leetcode.com/problems/reorder-list/)
+- [x] [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 
 ---
 

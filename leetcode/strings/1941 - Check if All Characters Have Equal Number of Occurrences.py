@@ -3,6 +3,10 @@
 import unittest
 
 def firstTry(s):
+    """
+    accepted
+    57 ms | 13.9 MB
+    """
     dp = {}
     for x in s:
         dp[x] = dp.get(x, 0) + 1
